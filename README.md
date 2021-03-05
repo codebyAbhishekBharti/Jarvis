@@ -7,3 +7,6 @@ for sending your data to phone you should use servertemp
 A lot of bug fixed and a imporoved functionality also added some new features
 # server
 server connects mobile to computer and it requires only the ip address of compupter and the alon with port :8000
+# jarvis 3
+major imporovement and a ton of features addredd 
+last update switching to linux
